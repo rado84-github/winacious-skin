@@ -1,6 +1,8 @@
 # winacious-skin
 
-This is my version of the default skin for Audacious. The original (default) skin looks like this:
+Winacious is my version of the default skin for Audacious.
+
+The original (default) skin looks like this:
 
 <img width="415" height="654" alt="audacious-original" src="https://github.com/user-attachments/assets/bef0b4df-9cb4-465c-8594-060357c57734" />
 
